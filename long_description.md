@@ -30,7 +30,7 @@ ignore irrelevant background information.
 If you are interested in what our 3D completed models look like, please have a look [at our Sketchfab profile](https://sketchfab.com/micropasts).
 
 
-[![logo lapislazzulo CMYK](http://www.rotarycluboltrepo.it/wp-content/uploads/2015/11/museo-egizio.png)](http://www.museoegizio.it)
+[![logo lapislazzulo CMYK](http://i1.wp.com/museoegizio.it/wp-content/uploads/2015/10/logo-museo-egizio1.jpg)](http://www.museoegizio.it)
 [![UCL logo](https://micropasts-other.s3.amazonaws.com/other/UCL_logo_wide.png)](http://ucl.ac.uk/archaeology)
 [![The British Museum logo](https://finds.org.uk/assets/logos/bm_logo.png)](http://britishmuseum.org)
 
