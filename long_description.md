@@ -20,8 +20,6 @@ available and is useful not only for basic documentation purposes, but also for 
 inclusion in gaming and virtual reality environments, or for identifying different sub-styles in otherwise similar 
 types of artefact (that might tell us about the date of the artefact, where it was made, or by whom).
 
-This particular photo-masking application is an experiment as we are attempting to model an Egyptian box coming from the collections of Museo Egizio, in Turin, Italy.
-
 
 ### What we want you to do
 
@@ -31,7 +29,6 @@ ignore irrelevant background information.
 
 If you are interested in what our 3D completed models look like, please have a look [at our Sketchfab profile](https://sketchfab.com/micropasts).
 
-### This project is a collaboration with  Museo Egizio of Turin, Italy.
 
 [![logo lapislazzulo CMYK](http://micropasts.org/wp-content/uploads/2016/05/logo-lapislazzulo-CMYK-e1464338838694.jpg)](http://www.museoegizio.it)
 [![UCL logo](https://micropasts-other.s3.amazonaws.com/other/UCL_logo_wide.png)](http://ucl.ac.uk/archaeology)
